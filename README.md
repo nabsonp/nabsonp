@@ -27,4 +27,13 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-
+<p align="center">
+  <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=nabsonp&count_private=true"
+    />
+  <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabsonp&count_private=true&layout=compact"
+    />
+  </p>

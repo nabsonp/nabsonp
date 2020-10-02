@@ -1,4 +1,4 @@
-<h3>Hi there, I'm Nabson! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h3>
+<h2>Hi there, I'm Nabson! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h3>
 
 <img align='right' src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" width="230">
 

@@ -4,12 +4,12 @@
 
 <p>
 <a href="https://www.linkedin.com/in/nabson-paiva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nabson%20Paiva-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:nabson.paiva@icomp.ufam.edu.br"><img alt="Email" src="https://img.shields.io/badge/Email-nabson.paiva@icomp.ufam.edu.br-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nabsonp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nabsonp@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ### 👨🏻‍💻 Somethings about me
-- 🔭 I’m currently working as a Software Engineer at <a href="https://www.portal.ume.com.br/?gclid=CjwKCAjw_NX7BRA1EiwA2dpg0m6crOOBJrBXq8pkeKTRZJLRJi0RvQ6wjvf6twPnPiYlF1irvgcmmRoCV9QQAvD_BwE">UME</a>.
-- :book: I'm currently studying Computer Science at Federal University of Amazon.
+- 🔭 I’m currently working as a Full Stack Developer at <a href="https://www.meliuz.com.br/">Méliuz</a>.
+- 📌 Currently I live in Manaus - Amazon.
 - ⚡ Fun fact: I'm a taurus :taurus:
 
 #### 🛠 &nbsp; Tech stack currently using
@@ -26,8 +26,12 @@
 <code><a href="https://www.java.com/pt-BR/download/help/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/run" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/pt/free/?trk=e4d1a24a-13d1-4019-b365-e284fded1202&sc_channel=ps&s_kwcid=AL!4422!3!454435137069!e!!g!!aws&ef_id=Cj0KCQiAic6eBhCoARIsANlox86CRelBh3HUxpr8hmLRvqeZXuYVVnA1_wh_6zv69rX83jbl_Tk3BHEaAt4nEALw_wcB:G:s&s_kwcid=AL!4422!3!454435137069!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://grpc.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
+
 
 <p align="center">
   <img
